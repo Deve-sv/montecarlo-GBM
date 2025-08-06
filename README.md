@@ -48,4 +48,4 @@ S_t = S_0 * exp( (mu - 0.5 * sigma^2) * t + sigma * W_t )
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Deve-sv/montecarlo-sps.git
+   git clone https://github.com/Deve-sv/montecarlo-GBM.git
